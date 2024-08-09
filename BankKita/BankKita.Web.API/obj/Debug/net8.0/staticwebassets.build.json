@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nbV6pJxKDL22mqtR8SeY3SqPgHkDH8QwJZbSLGYwK2o=",
+  "Source": "BankKita.Web.API",
+  "BasePath": "_content/BankKita.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,22 @@
+D:\Project Ardi\BankKita\BankKita\ViewModels\bin\Debug\net8.0\ViewModels.deps.json
+D:\Project Ardi\BankKita\BankKita\ViewModels\bin\Debug\net8.0\ViewModels.dll
+D:\Project Ardi\BankKita\BankKita\ViewModels\bin\Debug\net8.0\ViewModels.pdb
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfoInputs.cache
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfo.cs
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.dll
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\refint\ViewModels.dll
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.pdb
+D:\Project Ardi\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ref\ViewModels.dll
+D:\BankKita\BankKita\ViewModels\bin\Debug\net8.0\ViewModels.deps.json
+D:\BankKita\BankKita\ViewModels\bin\Debug\net8.0\ViewModels.dll
+D:\BankKita\BankKita\ViewModels\bin\Debug\net8.0\ViewModels.pdb
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfoInputs.cache
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfo.cs
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.dll
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\refint\ViewModels.dll
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ViewModels.pdb
+D:\BankKita\BankKita\ViewModels\obj\Debug\net8.0\ref\ViewModels.dll

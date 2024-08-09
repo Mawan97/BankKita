@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BankKita\\BankKita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AC15AC-2707-43F5-91F8-BA967583788C}|BankKita.Web.API\\BankKita.Web.API.csproj|d:\\bankkita\\bankkita\\bankkita.web.api\\controllers\\rekeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AC15AC-2707-43F5-91F8-BA967583788C}|BankKita.Web.API\\BankKita.Web.API.csproj|solutionrelative:bankkita.web.api\\controllers\\rekeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AC15AC-2707-43F5-91F8-BA967583788C}|BankKita.Web.API\\BankKita.Web.API.csproj|d:\\bankkita\\bankkita\\bankkita.web.api\\models\\bankkitacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AC15AC-2707-43F5-91F8-BA967583788C}|BankKita.Web.API\\BankKita.Web.API.csproj|solutionrelative:bankkita.web.api\\models\\bankkitacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AC15AC-2707-43F5-91F8-BA967583788C}|BankKita.Web.API\\BankKita.Web.API.csproj|d:\\bankkita\\bankkita\\bankkita.web.api\\models\\scaffold.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1AC15AC-2707-43F5-91F8-BA967583788C}|BankKita.Web.API\\BankKita.Web.API.csproj|solutionrelative:bankkita.web.api\\models\\scaffold.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RekeningController.cs",
+              "DocumentMoniker": "D:\\BankKita\\BankKita\\BankKita.Web.API\\Controllers\\RekeningController.cs",
+              "RelativeDocumentMoniker": "BankKita.Web.API\\Controllers\\RekeningController.cs",
+              "ToolTip": "D:\\BankKita\\BankKita\\BankKita.Web.API\\Controllers\\RekeningController.cs",
+              "RelativeToolTip": "BankKita.Web.API\\Controllers\\RekeningController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:31:33.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankKitaContext.cs",
+              "DocumentMoniker": "D:\\BankKita\\BankKita\\BankKita.Web.API\\Models\\BankKitaContext.cs",
+              "RelativeDocumentMoniker": "BankKita.Web.API\\Models\\BankKitaContext.cs",
+              "ToolTip": "D:\\BankKita\\BankKita\\BankKita.Web.API\\Models\\BankKitaContext.cs",
+              "RelativeToolTip": "BankKita.Web.API\\Models\\BankKitaContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwBcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:59:16.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scaffold.txt",
+              "DocumentMoniker": "D:\\BankKita\\BankKita\\BankKita.Web.API\\Models\\Scaffold.txt",
+              "RelativeDocumentMoniker": "BankKita.Web.API\\Models\\Scaffold.txt",
+              "ToolTip": "D:\\BankKita\\BankKita\\BankKita.Web.API\\Models\\Scaffold.txt",
+              "RelativeToolTip": "BankKita.Web.API\\Models\\Scaffold.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-08T07:57:01.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
